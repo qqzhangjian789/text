@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d4a800d-71eb-44de-915f-74e37c75d160" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../arbitrage_binance/.idea/arbitrage_binance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proxy_pool-master/.idea/proxy_pool-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../py + go/学习记录文件/数据库连接测试/mysql连接测试/.idea/mysql连接测试.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/zmq_send_data/.idea/zmq_send_data.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work_file/.idea/work_file.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work_file/ccxt_text/.idea/ccxt_text.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/.idea/sshConfigs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/.idea/zmq_send_data.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/.idea/binance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance/client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance/depthcache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance/websockets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/base/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/base/printobject.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/base/printtime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/constant/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/constant/system.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/constant/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/exception/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/exception/binanceapiexception.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/restapiinvoker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/restapirequest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/restapirequestimpl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/utils/apisignature.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/utils/channelparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/utils/channels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/utils/inputchecker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/utils/jsonwrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/utils/timeservice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/utils/urlparamsbuilder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/websocketconnection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/websocketrequest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/websocketrequestimpl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/impl/websocketwatchdog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/accountinformation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/accountinformationv2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/accountupdate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/adlquantile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/aggregatetrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/aggregatetradeevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/apitradingstatus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/balance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/balancev2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/blvtinfoevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/blvtnavcandlestick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/blvtnavcandlestickevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/candlestick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/candlestickevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/codeandmsg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/compositeindexevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/constant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/countdowncancelall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/diffdepthevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/exchangeinformation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/fundingrate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/income.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/indexInfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/leverage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/leveragebracket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/liquidationorder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/liquidationorderevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/listenkeyexpired.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/longshortratio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/markprice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/markpriceevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/mytrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/openinterest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/openintereststats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/orderbook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/orderbookevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/orderupdate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/position.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/positionmargin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/positionmarginhistory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/positionmode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/symbolbooktickerevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/symbolminitickerevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/symbolorderbook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/symbolprice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/symboltickerevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/takerbuysellratio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/tickerpricechangestatistics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/model/trade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/requestclient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_f/subscriptionclient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_spot_swap_clear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_spot_websocket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/binance_swap_websocket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_add_funding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_funding_rate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/1INCHUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/AAVEUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ADAUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/AKROUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ALGOUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ALICEUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ALPHAUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ANKRUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ATOMUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/AVAXUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/AXSUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BALUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BANDUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BATUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BCHUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BELUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BLZUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BNBUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BTCBUSD.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BTCSTUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BTCUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BTSUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BTTUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/BZRXUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/CELRUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/CHRUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/CHZUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/COMPUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/COTIUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/CRVUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/CTKUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/CVCUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/DASHUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/DENTUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/DGBUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/DODOUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/DOGEUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/DOTUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/EGLDUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ENJUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/EOSUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ETCUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ETHUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/FILUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/FLMUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/FTMUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/GRTUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/HBARUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/HNTUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/HOTUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ICXUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/IOSTUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/IOTAUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/KAVAUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/KNCUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/KSMUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/LINAUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/LINKUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/LITUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/LRCUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/LTCUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/LUNAUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/MANAUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/MATICUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/MKRUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/MTLUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/NEARUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/NEOUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/NKNUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/OCEANUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/OGNUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/OMGUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ONEUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ONTUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/QTUMUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/REEFUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/RENUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/RLCUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/RSRUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/RUNEUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/RVNUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/SANDUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/SCUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/SFPUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/SKLUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/SNXUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/SOLUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/SRMUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/STMXUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/STORJUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/SUSHIUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/SXPUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/THETAUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/TOMOUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/TRBUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/TRXUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/UNFIUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/UNIUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/VETUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/WAVESUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/XEMUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/XLMUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/XMRUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/XRPUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/XTZUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/YFIIUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/YFIUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ZECUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ZENUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ZILUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/binance_year_funding_rate/ZRXUSDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/aax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/acx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/aofex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/ascendex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/aax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/acx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/aofex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/ascendex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/base/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/base/exchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/base/throttle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bcex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bequant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bibox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bigone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/binance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/binanceje.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/binanceus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bit2c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitbank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitbay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitcoincom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitfinex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitfinex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitflyer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitforex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bithumb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitkk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitmart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitmax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitmex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitpanda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitso.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitstamp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitstamp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bittrex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitvavo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bitz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bl3p.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bleutrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/braziliex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/btcalpha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/btcbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/btcmarkets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/btctradeua.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/btcturk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/buda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bybit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/bytetrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/cdax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/cex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/chilebit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinbase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinbaseprime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinbasepro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coincheck.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinegg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinfalcon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinfloor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coingi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinmarketcap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinmate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coinspot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/coss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/crex24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/currencycom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/delta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/deribit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/digifinex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/dsx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/equos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/eterbase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/exmo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/exx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/fcoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/fcoinjp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/flowbtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/foxbit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/ftx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/gateio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/gemini.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/gopax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/hbtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/hitbtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/hollaex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/huobijp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/huobipro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/huobiru.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/ice3x.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/idex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/idex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/independentreserve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/indodax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/itbit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/kraken.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/kucoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/kuna.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/lakebtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/latoken.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/lbank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/liquid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/livecoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/luno.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/lykke.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/mercado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/mixcoins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/ndax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/novadax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/oceanex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/okcoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/okex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/paymium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/phemex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/poloniex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/probit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/qtrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/rightbtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/ripio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/southxchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/stex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/stronghold.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/surbitcoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/therock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/tidebit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/tidex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/timex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/upbit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/vaultoro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/vbtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/vcc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/wavesexchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/whitebit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/xbtce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/xena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/yobit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/zaif.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/async_support/zb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/base/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/base/decimal_to_precision.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/base/errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/base/exchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bcex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bequant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bibox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bigone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/binance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/binanceje.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/binanceus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bit2c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitbank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitbay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitcoincom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitfinex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitfinex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitflyer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitforex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bithumb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitkk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitmart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitmax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitmex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitpanda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitso.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitstamp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitstamp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bittrex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitvavo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bitz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bl3p.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bleutrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/braziliex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/btcalpha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/btcbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/btcmarkets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/btctradeua.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/btcturk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/buda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bybit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/bytetrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/cdax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/cex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/chilebit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinbase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinbaseprime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinbasepro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coincheck.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinegg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinfalcon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinfloor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coingi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinmarketcap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinmate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coinspot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/coss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/crex24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/currencycom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/delta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/deribit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/digifinex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/dsx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/equos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/eterbase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/exmo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/exx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/fcoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/fcoinjp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/flowbtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/foxbit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/ftx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/gateio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/gemini.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/gopax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/hbtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/hitbtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/hollaex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/huobijp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/huobipro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/huobiru.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/ice3x.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/idex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/idex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/independentreserve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/indodax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/itbit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/kraken.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/kucoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/kuna.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/lakebtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/latoken.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/lbank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/liquid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/livecoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/luno.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/lykke.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/mercado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/mixcoins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/ndax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/novadax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/oceanex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/okcoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/okex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/paymium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/phemex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/poloniex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/pro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/probit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/qtrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/rightbtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/ripio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/southxchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/ecdsa/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/ecdsa/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/ecdsa/curves.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/ecdsa/der.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/ecdsa/ecdsa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/ecdsa/ellipticcurve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/ecdsa/keys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/ecdsa/numbertheory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/ecdsa/rfc6979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/static_dependencies/ecdsa/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/stex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/stronghold.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/surbitcoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_async.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_calculate_fee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_crypto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_decimal_to_precision.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_deep_extend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_exchange_datetime_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_ohlcv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_sync.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_trade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/test/test_transaction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/therock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/tidebit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/tidex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/timex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/upbit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/vaultoro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/vbtc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/vcc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/wavesexchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/whitebit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/xbtce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/xena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/yobit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/zaif.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/data_ccxt/zb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/funding_rate_analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/web_connect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/websocket_receive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zmq_send_data/websocket_send_data.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="d858f3b3-7463-4db7-abba-1ebd26c72a9a" />
+  <component name="ProjectId" id="1sViMJiOlzcSGF9iGt1mNy6rZ0R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.web_send_data">
+    <configuration name="binance_U_EOS_wangge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="binance_strategy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binance_U_EOS_wangge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="binance_wangge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="binance_strategy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binance_wangge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exchange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="binance_strategy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_ccxt/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_ccxt/base/exchange.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="binance_strategy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="binance_strategy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_send_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="binance_strategy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_send_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.web_send_data" />
+        <item itemvalue="Python.binance_U_EOS_wangge" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.exchange" />
+        <item itemvalue="Python.binance_wangge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d4a800d-71eb-44de-915f-74e37c75d160" name="Default Changelist" comment="" />
+      <created>1620964108699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620964108699</updated>
+      <workItem from="1620964109975" duration="4602000" />
+      <workItem from="1620979174358" duration="3240000" />
+      <workItem from="1620983980247" duration="6015000" />
+      <workItem from="1621181155856" duration="2283000" />
+      <workItem from="1621193225495" duration="18127000" />
+      <workItem from="1621353532622" duration="1683000" />
+      <workItem from="1621495662689" duration="337000" />
+      <workItem from="1621496020056" duration="9053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="112" key="#Deployment" timestamp="1621495987914">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="112" key="#Deployment/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620966052766" />
+    <state x="1867" y="134" key="#Deployment/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1620977117941" />
+    <state x="320" y="112" key="#Deployment/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1621495987914" />
+    <state x="304" y="99" key="#SSH_Configurations" timestamp="1620966031123">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="304" y="99" key="#SSH_Configurations/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620966031123" />
+    <state x="446" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621183849490">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="446" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1621183849490" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1621616008888">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="289" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620989337296" />
+    <state width="1398" height="47" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1621340473924" />
+    <state width="939" height="44" key="GridCell.Tab.0.bottom/0.25.1440.801/1440.0.1920.1080@1440.0.1920.1080" timestamp="1620979089163" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1621616008888" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1621616008887">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="289" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620989337294" />
+    <state width="1398" height="47" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1621340473920" />
+    <state width="939" height="44" key="GridCell.Tab.0.center/0.25.1440.801/1440.0.1920.1080@1440.0.1920.1080" timestamp="1620979089160" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1621616008887" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1621616008886">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="289" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620989337292" />
+    <state width="1398" height="47" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1621340473918" />
+    <state width="939" height="44" key="GridCell.Tab.0.left/0.25.1440.801/1440.0.1920.1080@1440.0.1920.1080" timestamp="1620979089159" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1621616008886" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1621616008888">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="289" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620989337295" />
+    <state width="1398" height="47" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1621340473923" />
+    <state width="939" height="44" key="GridCell.Tab.0.right/0.25.1440.801/1440.0.1920.1080@1440.0.1920.1080" timestamp="1620979089160" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1621616008888" />
+    <state x="503" y="156" key="RollbackChangesDialog" timestamp="1620964325031">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="156" key="RollbackChangesDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620964325031" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1621262735670">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1621262735670" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1621513116774">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1621513116774" />
+    <state x="450" y="366" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1621496184814">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="366" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1621262807642" />
+    <state x="450" y="366" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1621496184814" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/binance_strategy$binance_U_EOS_wangge.coverage" NAME="binance_U_EOS_wangge Coverage Results" MODIFIED="1621329128543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/binance_strategy$main.coverage" NAME="main Coverage Results" MODIFIED="1620964128099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/binance_strategy$gateio_wangge.coverage" NAME="gateio_wangge Coverage Results" MODIFIED="1620987688139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/binance_strategy$web_send_data.coverage" NAME="web_send_data Coverage Results" MODIFIED="1621515524525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/binance_strategy$test.coverage" NAME="test Coverage Results" MODIFIED="1621240902747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/binance_strategy$exchange.coverage" NAME="exchange Coverage Results" MODIFIED="1620987752753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_ccxt/base" />
+    <SUITE FILE_PATH="coverage/binance_strategy$binance_wangge.coverage" NAME="binance_wangge Coverage Results" MODIFIED="1620987737793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
